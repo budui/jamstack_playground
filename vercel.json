@@ -1,6 +1,12 @@
 {
   "trailingSlash": false,
   "redirects": [
-    { "source": "/hust/sg", "destination": "https://docs.qq.com/desktop/mydoc/folder/ASFrolAJMrkB"}
-  ]
+    {
+      "source": "/hust/sg",
+      "destination": "https://docs.qq.com/desktop/mydoc/folder/ASFrolAJMrkB"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
 }
